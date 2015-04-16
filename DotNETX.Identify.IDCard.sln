@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNETX.Identify.IDCard", "DotNETX.Identify.IDCard\DotNETX.Identify.IDCard.csproj", "{9D8D333F-FA2A-4DC8-A6C0-F41E11CEAA36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{747708EC-EEA2-4AEB-8C3E-7331EEF28588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9D8D333F-FA2A-4DC8-A6C0-F41E11CEAA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D8D333F-FA2A-4DC8-A6C0-F41E11CEAA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D8D333F-FA2A-4DC8-A6C0-F41E11CEAA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747708EC-EEA2-4AEB-8C3E-7331EEF28588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747708EC-EEA2-4AEB-8C3E-7331EEF28588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747708EC-EEA2-4AEB-8C3E-7331EEF28588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747708EC-EEA2-4AEB-8C3E-7331EEF28588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
